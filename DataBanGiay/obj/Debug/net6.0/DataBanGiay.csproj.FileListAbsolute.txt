@@ -1,0 +1,14 @@
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.csproj.AssemblyReference.cache
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.GeneratedMSBuildEditorConfig.editorconfig
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.AssemblyInfoInputs.cache
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.AssemblyInfo.cs
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.csproj.CoreCompileInputs.cache
+I:\HocTap\C#5\BangHangC5\DataBanGiay\bin\Debug\net6.0\DataBanGiay.deps.json
+I:\HocTap\C#5\BangHangC5\DataBanGiay\bin\Debug\net6.0\DataBanGiay.runtimeconfig.json
+I:\HocTap\C#5\BangHangC5\DataBanGiay\bin\Debug\net6.0\DataBanGiay.dll
+I:\HocTap\C#5\BangHangC5\DataBanGiay\bin\Debug\net6.0\DataBanGiay.pdb
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.dll
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\refint\DataBanGiay.dll
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.pdb
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\DataBanGiay.genruntimeconfig.cache
+I:\HocTap\C#5\BangHangC5\DataBanGiay\obj\Debug\net6.0\ref\DataBanGiay.dll
